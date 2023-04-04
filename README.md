@@ -1,16 +1,14 @@
-# Hello there! I'm Denis Kruchinin :wave:
+# Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Denis Kruchinin
 
 ## About me
-- :seedling: I’m currently learning **web technologies**
-- :globe_with_meridians: My technology stack at this moment is **Java**, **Spring Framework**
-- :office: I'm currently searching for **job**
+- :globe_with_meridians: My technology stack at this moment is **Java**, **Spring Boot**
+- :office: I am currently working as **Software Engineer**
 
 ![](https://komarev.com/ghpvc/?username=dginix)
 
 ## You cant connect with me by
 - :iphone: **[Telegram](https://t.me/dginix)**
 - :mailbox: **kruchininds@yandex.ru**
-- :memo: **[HH.ru CV](https://hh.ru/resume/197760aaff0b5a12320039ed1f363769514b77)**
 - :computer: **[LinkedIn](https://www.linkedin.com/in/denis-kruchinin-91899518a)**
 
 ## Current Tech
